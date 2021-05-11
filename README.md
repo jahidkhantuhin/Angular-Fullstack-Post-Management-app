@@ -4,7 +4,7 @@
 
 A Mean-stack Post Management application built with Angular + Angular Material UI component library + Node(Express) + MongoDB.
 
-# Fron-end Build Setup
+# Front-end Build Setup
 
 ## install dependencies
 npm install
